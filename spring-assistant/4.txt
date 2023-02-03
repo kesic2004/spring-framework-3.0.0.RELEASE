@@ -1,0 +1,53 @@
+[maven]
+set JAVA_HOME=D:\Java\jdk1_8_0_111
+set JRE_HOME=%JAVA_HOME%\jre
+MAVEN_HOME=D:\apache-maven-3.6.0
+CLASSPATH=%JRE_HOME%\lib;%MAVEN_HOME%\lib
+Path=C:\Windows\SysWOW64;C:\Windows;C:\Windows\SysWOW64\Wbem;%JAVA_HOME%\bin;%MAVEN_HOME%\bin
+
+mvn dependency:sources -DdownloadSources=true -DdownloadJavadocs=true
+
+
+[ant]
+set JAVA_HOME=D:\Java\jdk1_6_0_45
+set JRE_HOME=%JAVA_HOME%\jre
+set ANT_HOME=D:\apache-ant-1.7.0
+set CLASSPATH=%JRE_HOME%\lib;%ANT_HOME%\lib
+set PATH=C:\Windows\SysWOW64;C:\Windows;C:\Windows\SysWOW64\Wbem;%JAVA_HOME%\bin;%ANT_HOME%\bin
+
+F:
+cd spring-framework-3.0.x\spring-framework-3.0.0.RELEASE\spring-core
+ant -f MyBuild.xml
+
+https://repo.spring.io/plugins-release/org/apache/commons
+https://repo.spring.io/plugins-release/org/springframework/core
+https://repo.spring.io/plugins-release/org/springframework/org.springframework.instrument.tomcat/3.0.0.RELEASE/
+https://repo.spring.io/plugins-release/org/aspectj/com.springsource.org.aspectj.tools/1.6.5.RELEASE/
+https://repo.spring.io/plugins-release/org/springframework/org.springframework.jdbc/3.0.0.RELEASE/
+https://repo.maven.apache.org/maven2/cglib/cglib/2.2/
+https://repo.maven.apache.org/maven2/javax/jdo/
+https://repo.maven.apache.org/maven2/org/slf4j/slf4j-jcl/1.5.3/
+
+¤
+
+https://blog.csdn.net/Hello_World_QWP/article/details/82459915       Maven镜像地址大全，Maven镜像地址配置示例_Spring Boot-Common On With You-CSDN博客_maven镜像地址
+https://blog.csdn.net/jiguquan3839/article/details/89287018          Maven配置远程仓库_开源世界-CSDN博客_maven配置远程仓库
+https://blog.csdn.net/weixin_34303897/article/details/88126517       使用Maven配置Spring_weixin_34303897的博客-CSDN博客_spring maven
+https://blog.csdn.net/jxchallenger/article/details/90291401          Maven下载sources 源码包命令_jxchallenger的专栏-CSDN博客_maven 下载源码命令
+https://developer.jboss.org/thread/228492                            ClassNotFoundException: org.jboss.virtual.Virtu...| JBoss.org Content Archive (Read Only)
+https://mvnrepository.com/artifact/org.jboss/jboss-vfs               Maven Repository: org.jboss » jboss-vfs
+
+
+F:\repo1\javax\jdo\com.springsource.javax.jdo\2.1.0
+
+
+Description	Resource	Path	Location	Type
+ArtifactDescriptorException: Failed to read artifact descriptor for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0: ArtifactResolutionException: Failure to transfer net.sourceforge.cglib:com.springsource.net.sf.cglib:pom:2.2.0 from http://repo.spring.io/plugins-release/ was cached in the local repository, resolution will not be reattempted until the update interval of repository.springframework.maven.milestone has elapsed or updates are forced. Original error: Could not transfer artifact net.sourceforge.cglib:com.springsource.net.sf.cglib:pom:2.2.0 from/to repository.springframework.maven.milestone (http://repo.spring.io/plugins-release/): Access denied to http://repo.spring.io/plugins-release/net/sourceforge/cglib/com.springsource.net.sf.cglib/2.2.0/com.springsource.net.sf.cglib-2.2.0.pom. Error code 403, Forbidden	pom.xml	/spring_aop_04	line 1	Maven Dependency Problem
+
+
+Description	Resource	Path	Location	Type
+Project 'spring-asm' is missing required source folder: 'src/main/java'	spring-asm		Build path	Build Path Problem
+Project 'spring-asm' is missing required source folder: 'src/main/resources'	spring-asm		Build path	Build Path Problem
+Project 'spring-asm' is missing required source folder: 'src/test/java'	spring-asm		Build path	Build Path Problem
+Project 'spring-asm' is missing required source folder: 'src/test/resources'	spring-asm		Build path	Build Path Problem
+

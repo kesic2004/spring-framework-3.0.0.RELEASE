@@ -1,0 +1,662 @@
+	F:/repo1/javax.xml.rpc/com.springsource.javax.xml.rpc/1.1.0/com.springsource.javax.xml.rpc-1.1.0.jar
+	F:/repo1/org.beanshell/com.springsource.bsh/2.0.0.b4/com.springsource.bsh-2.0.0.b4.jar
+	F:/repo1/edu.emory.mathcs.backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-3.0.0.jar                         edu.emory.mathcs.backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-sources-3.0.0.jar
+	F:/repo1/javax.ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-3.0.0.jar                                                                         javax.ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-sources-3.0.0.jar
+	F:/repo1/javax.jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-1.1.0.jar                                                                         javax.jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-sources-1.1.0.jar
+	F:/repo1/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-1.0.0.jar                                                 javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-sources-1.0.0.jar
+	F:/repo1/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0.jar                                                 javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-sources-1.1.0.jar
+	F:/repo1/javax.validation/com.springsource.javax.validation/1.0.0.GA/com.springsource.javax.validation-1.0.0.GA.jar                                              javax.validation/com.springsource.javax.validation/1.0.0/com.springsource.javax.validation-sources-1.0.0.GA.jar
+	F:/repo1/org.apache.commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar                          org.apache.commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-sources-1.2.2.osgi.jar
+	F:/repo1/org.apache.commons/com.springsource.org.apache.commons.pool/1.4.0/com.springsource.org.apache.commons.pool-1.4.0.jar                                    org.apache.commons/com.springsource.org.apache.commons.pool/1.4.0/com.springsource.org.apache.commons.pool-sources-1.4.0.jar
+	F:/repo1/org.codehaus.groovy/com.springsource.org.codehaus.groovy/1.6.5/com.springsource.org.codehaus.groovy-1.6.5.jar                                           org.codehaus.groovy/com.springsource.org.codehaus.groovy/1.6.5/com.springsource.org.codehaus.groovy-sources-1.6.5.jar
+	F:/repo1/org.objectweb.asm/com.springsource.org.objectweb.asm/3.1.0/com.springsource.org.objectweb.asm-3.1.0.jar                                                 org.objectweb.asm/com.springsource.org.objectweb.asm/3.1.0/com.springsource.org.objectweb.asm-sources-3.1.0.jar
+	F:/repo1/org.objectweb.asm/com.springsource.org.objectweb.asm.commons/3.1.0/com.springsource.org.objectweb.asm.commons-3.1.0.jar                                 org.objectweb.asm/com.springsource.org.objectweb.asm.commons/3.1.0/com.springsource.org.objectweb.asm.commons-sources-3.1.0.jar
+	F:/repo1/org.hibernate/com.springsource.org.hibernate.validator/4.0.0.GA/com.springsource.org.hibernate.validator-4.0.0.GA.jar                                   org.hibernate/com.springsource.org.hibernate.validator/4.0.0.GA/com.springsource.org.hibernate.validator-sources-4.0.0.GA.jar
+	F:/repo1/org.joda/com.springsource.org.joda.time/1.6.0/com.springsource.org.joda.time-1.6.0.jar                                                                  org.joda/com.springsource.org.joda.time/1.6.0/com.springsource.org.joda.time-sources-1.6.0.jar
+	F:/repo1/org.jruby/com.springsource.org.jruby/1.4.0/com.springsource.org.jruby-1.4.0.jar                                                                         org.jruby/com.springsource.org.jruby/1.4.0/com.springsource.org.jruby-sources-1.4.0.jar
+	F:/repo1/javax.inject/com.springsource.org.atinject.tck/1.0.0/com.springsource.org.atinject.tck-1.0.0.jar                                                        javax.inject/com.springsource.org.atinject.tck/1.0.0/com.springsource.org.atinject.tck-sources-1.0.0.jar
+
+<!-- javax.xml.rpc             com.springsource.javax.xml.rpc             1.1.0      com.springsource.javax.xml.rpc-1.1.0.jar -->
+<!-- org.beanshell             com.springsource.bsh                       2.0.0.b4   com.springsource.bsh-2.0.0.b4.jar -->
+<!-- edu.emory.mathcs.backport com.springsource.edu.emory.mathcs.backport 3.0.0      com.springsource.edu.emory.mathcs.backport-3.0.0.jar -->
+<!-- javax.ejb                 com.springsource.javax.ejb                 3.0.0      com.springsource.javax.ejb-3.0.0.jar -->
+<!-- javax.jms                 com.springsource.javax.jms                 1.1.0      com.springsource.javax.jms-1.1.0.jar -->
+<!-- javax.persistence         com.springsource.javax.persistence         1.0.0      com.springsource.javax.persistence-1.0.0.jar -->
+<!-- javax.transaction         com.springsource.javax.transaction         1.1.0      com.springsource.javax.transaction-1.1.0.jar -->
+<!-- javax.validation          com.springsource.javax.validation          1.0.0.GA   com.springsource.javax.validation-1.0.0.GA.jar -->
+<!-- org.apache.commons        com.springsource.org.apache.commons.dbcp   1.2.2.osgi com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar -->
+<!-- org.apache.commons        com.springsource.org.apache.commons.pool   1.4.0      com.springsource.org.apache.commons.pool-1.4.0.jar -->
+<!-- org.codehaus.groovy       com.springsource.org.codehaus.groovy       1.6.5      com.springsource.org.codehaus.groovy-1.6.5.jar -->
+<!-- org.objectweb.asm         com.springsource.org.objectweb.asm         3.1.0      com.springsource.org.objectweb.asm-3.1.0.jar -->
+<!-- org.objectweb.asm         com.springsource.org.objectweb.asm.commons 3.1.0      com.springsource.org.objectweb.asm.commons-3.1.0.jar -->
+<!-- org.hibernate             com.springsource.org.hibernate.validator   4.0.0.GA   com.springsource.org.hibernate.validator-4.0.0.GA.jar -->
+<!-- org.joda                  com.springsource.org.joda.time             1.6.0      com.springsource.org.joda.time-1.6.0.jar -->
+<!-- org.jruby                 com.springsource.org.jruby                 1.4.0      com.springsource.org.jruby-1.4.0.jar -->
+<!-- javax.inject              com.springsource.org.atinject.tck          1.0.0      com.springsource.org.atinject.tck-1.0.0.jar -->
+
+F:/repo1/com.mchange.c3p0/com.springsource.com.mchange.v2.c3p0/0.9.1.2/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar /IVY_CACHE/com.mchange.c3p0/com.springsource.com.mchange.v2.c3p0/0.9.1.2/com.springsource.com.mchange.v2.c3p0-sources-0.9.1.2.jar
+F:/repo1/org.hsqldb/com.springsource.org.hsqldb/1.8.0.9/com.springsource.org.hsqldb-1.8.0.9.jar                         /IVY_CACHE/org.hsqldb/com.springsource.org.hsqldb/1.8.0.9/com.springsource.org.hsqldb-sources-1.8.0.9.jar
+F:/repo1/com.h2database/com.springsource.org.h2/1.0.71/com.springsource.org.h2-1.0.71.jar                               /IVY_CACHE/com.h2database/com.springsource.org.h2/1.0.71/com.springsource.org.h2-sources-1.0.71.jar
+F:/repo1/org.apache.derby/com.springsource.org.apache.derby/10.5.1000001.764942/com.springsource.org.apache.derby-10.5.1000001.764942.jar
+F:/repo1/com.ibm.websphere/com.springsource.com.ibm.websphere.uow/6.0.2.17/com.springsource.com.ibm.websphere.uow-6.0.2.17.jar
+F:/repo1/javax.resource/com.springsource.javax.resource/1.5.0/com.springsource.javax.resource-1.5.0.jar                /IVY_CACHE/javax.resource/com.springsource.javax.resource/1.5.0/com.springsource.javax.resource-sources-1.5.0.jar
+
+<dependency><groupId>com.mchange.c3p0</groupId> <artifactId>com.springsource.com.mchange.v2.c3p0</artifactId> <version>0.9.1.2            </version> </dependency>
+<dependency><groupId>org.hsqldb      </groupId> <artifactId>com.springsource.org.hsqldb         </artifactId> <version>1.8.0.9            </version> </dependency>
+<dependency><groupId>com.h2database  </groupId> <artifactId>com.springsource.org.h2             </artifactId> <version>1.0.71             </version> </dependency>
+<dependency><groupId>org.apache.derby</groupId> <artifactId>com.springsource.org.apache.derby   </artifactId> <version>10.5.1000001.764942</version> </dependency>
+
+<dependency><groupId>com.ibm.websphere</groupId> <artifactId>com.springsource.com.ibm.websphere.uow</artifactId> <version>6.0.2.17</version> </dependency>
+<dependency><groupId>javax.resource   </groupId> <artifactId>com.springsource.javax.resource       </artifactId> <version>1.5.0   </version> </dependency>
+
+F:/repo1/com.thoughtworks.xstream/com.springsource.com.thoughtworks.xstream/1.3.0/com.springsource.com.thoughtworks.xstream-1.3.0.jar /IVY_CACHE/com.thoughtworks.xstream/com.springsource.com.thoughtworks.xstream/1.3.0/com.springsource.com.thoughtworks.xstream-sources-1.3.0.jar
+F:/repo1/javax.xml.bind/com.springsource.javax.xml.bind/2.1.7/com.springsource.javax.xml.bind-2.1.7.jar                               /IVY_CACHE/javax.xml.bind/com.springsource.javax.xml.bind/2.1.7/com.springsource.javax.xml.bind-sources-2.1.7.jar
+F:/repo1/net.sourceforge.jibx/com.springsource.org.jibx.runtime/1.1.5/com.springsource.org.jibx.runtime-1.1.5.jar                     /IVY_CACHE/net.sourceforge.jibx/com.springsource.org.jibx.runtime/1.1.5/com.springsource.org.jibx.runtime-sources-1.1.5.jar
+F:/repo1/org.apache.xmlbeans/com.springsource.org.apache.xmlbeans/2.4.0/com.springsource.org.apache.xmlbeans-2.4.0.jar                /IVY_CACHE/org.apache.xmlbeans/com.springsource.org.apache.xmlbeans/2.4.0/com.springsource.org.apache.xmlbeans-sources-2.4.0.jar
+F:/repo1/org.codehaus.castor/com.springsource.org.castor/1.2.0/com.springsource.org.castor-1.2.0.jar                                  /IVY_CACHE/org.codehaus.castor/com.springsource.org.castor/1.2.0/com.springsource.org.castor-sources-1.2.0.jar
+F:/repo1/org.codehaus.jettison/com.springsource.org.codehaus.jettison/1.0.1/com.springsource.org.codehaus.jettison-1.0.1.jar          /IVY_CACHE/org.codehaus.jettison/com.springsource.org.codehaus.jettison/1.0.1/com.springsource.org.codehaus.jettison-sources-1.0.1.jar
+F:/repo1/org.xmlpull/com.springsource.org.xmlpull/1.1.3.4-O/com.springsource.org.xmlpull-1.1.3.4-O.jar                                /IVY_CACHE/org.xmlpull/com.springsource.org.xmlpull/1.1.3.4-O/com.springsource.org.xmlpull-sources-1.1.3.4-O.jar
+F:/repo1/org.apache.xerces/com.springsource.org.apache.xerces/2.8.1/com.springsource.org.apache.xerces-2.8.1.jar                      /IVY_CACHE/org.apache.xerces/com.springsource.org.apache.xerces/2.8.1/com.springsource.org.apache.xerces-sources-2.8.1.jar
+
+
+<dependency><groupId>com.thoughtworks.xstream</groupId> <artifactId>                   com.springsource.com.thoughtworks.xstream</artifactId> <version>                   1.3.0    </version> </dependency>
+<dependency><groupId>javax.xml.bind          </groupId> <artifactId>                   com.springsource.javax.xml.bind          </artifactId> <version>                   2.1.7    </version> </dependency>
+<dependency><groupId>net.sourceforge.jibx    </groupId> <artifactId>                   com.springsource.org.jibx.runtime        </artifactId> <version>                   1.1.5    </version> </dependency>
+<dependency><groupId>org.apache.xmlbeans     </groupId> <artifactId>                   com.springsource.org.apache.xmlbeans     </artifactId> <version>                   2.4.0    </version> </dependency>
+<dependency><groupId>org.codehaus.castor     </groupId> <artifactId>                   com.springsource.org.castor              </artifactId> <version>                   1.2.0    </version> </dependency>
+<dependency><groupId>org.codehaus.jettison   </groupId> <artifactId>                   com.springsource.org.codehaus.jettison   </artifactId> <version>                   1.0.1    </version> </dependency>
+<dependency><groupId>org.xmlpull             </groupId> <artifactId>                   com.springsource.org.xmlpull             </artifactId> <version>                   1.1.3.4-O</version> </dependency>
+<dependency><groupId>org.apache.xerces       </groupId> <artifactId>                   com.springsource.org.apache.xerces       </artifactId> <version>                   2.8.1    </version> </dependency>
+
+F:/repo1/javax.portlet/com.springsource.javax.portlet/2.0.0/com.springsource.javax.portlet-2.0.0.jar
+F:/repo1/org.apache.commons/com.springsource.org.apache.commons.codec/1.3.0/com.springsource.org.apache.commons.codec-1.3.0.jar
+
+F:/repo1/com.caucho/com.springsource.com.caucho/3.2.1/com.springsource.com.caucho-3.2.1.jar                                                /IVY_CACHE/com.caucho/com.springsource.com.caucho/3.2.1/com.springsource.com.caucho-sources-3.2.1.jar"/>
+F:/repo1/javax.faces/com.springsource.javax.faces/1.2.0.08/com.springsource.javax.faces-1.2.0.08.jar                                       /IVY_CACHE/javax.faces/com.springsource.javax.faces/1.2.0.08/com.springsource.javax.faces-sources-1.2.0.08.jar"/>
+F:/repo1/javax.servlet/com.springsource.javax.servlet.jsp/2.1.0/com.springsource.javax.servlet.jsp-2.1.0.jar                               /IVY_CACHE/javax.servlet/com.springsource.javax.servlet.jsp/2.1.0/com.springsource.javax.servlet.jsp-sources-2.1.0.jar"/>
+F:/repo1/javax.xml.soap/com.springsource.javax.xml.soap/1.3.0/com.springsource.javax.xml.soap-1.3.0.jar                                    /IVY_CACHE/javax.xml.soap/com.springsource.javax.xml.soap/1.3.0/com.springsource.javax.xml.soap-sources-1.3.0.jar"/>
+F:/repo1/org.apache.axis/com.springsource.org.apache.axis/1.4.0/com.springsource.org.apache.axis-1.4.0.jar                                 /IVY_CACHE/org.apache.axis/com.springsource.org.apache.axis/1.4.0/com.springsource.org.apache.axis-sources-1.4.0.jar"/>
+F:/repo1/org.apache.commons/com.springsource.org.apache.commons.fileupload/1.2.0/com.springsource.org.apache.commons.fileupload-1.2.0.jar  /IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.fileupload/1.2.0/com.springsource.org.apache.commons.fileupload-sources-1.2.0.jar"/>
+F:/repo1/org.apache.commons/com.springsource.org.apache.commons.httpclient/3.1.0/com.springsource.org.apache.commons.httpclient-3.1.0.jar  /IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.httpclient/3.1.0/com.springsource.org.apache.commons.httpclient-sources-3.1.0.jar"/>
+F:/repo1/org.apache.taglibs/com.springsource.org.apache.taglibs.standard/1.1.2/com.springsource.org.apache.taglibs.standard-1.1.2.jar      /IVY_CACHE/org.apache.taglibs/com.springsource.org.apache.taglibs.standard/1.1.2/com.springsource.org.apache.taglibs.standard-sources-1.1.2.jar"/>
+F:/repo1/org.codehaus.jackson/com.springsource.org.codehaus.jackson.mapper/1.0.0/com.springsource.org.codehaus.jackson.mapper-1.0.0.jar    /IVY_CACHE/org.codehaus.jackson/com.springsource.org.codehaus.jackson.mapper/1.0.0/com.springsource.org.codehaus.jackson.mapper-sources-1.0.0.jar"/>
+F:/repo1/org.codehaus.jackson/com.springsource.org.codehaus.jackson/1.0.0/com.springsource.org.codehaus.jackson-1.0.0.jar                  /IVY_CACHE/org.codehaus.jackson/com.springsource.org.codehaus.jackson/1.0.0/com.springsource.org.codehaus.jackson-sources-1.0.0.jar"/>
+F:/repo1/org.mortbay.jetty/com.springsource.org.mortbay.jetty.server/6.1.9/com.springsource.org.mortbay.jetty.server-6.1.9.jar             /IVY_CACHE/org.mortbay.jetty/com.springsource.org.mortbay.jetty.server/6.1.9/com.springsource.org.mortbay.jetty.server-sources-6.1.9.jar"/>
+F:/repo1/org.mortbay.jetty/com.springsource.org.mortbay.util/6.1.9/com.springsource.org.mortbay.util-6.1.9.jar                             /IVY_CACHE/org.mortbay.jetty/com.springsource.org.mortbay.util/6.1.9/com.springsource.org.mortbay.util-sources-6.1.9.jar"/>
+
+
+<dependency><groupId>javax.portlet     </groupId> <artifactId>com.springsource.javax.portlet           </artifactId> <version>2.0.0</version> </dependency>
+<dependency><groupId>org.apache.commons</groupId> <artifactId>com.springsource.org.apache.commons.codec</artifactId> <version>1.3.0</version> </dependency>
+
+<dependency><groupId>com.caucho          </groupId> <artifactId> com.springsource.com.caucho                   </artifactId> <version> 3.2.1   </version> </dependency>
+<dependency><groupId>javax.faces         </groupId> <artifactId> com.springsource.javax.faces                  </artifactId> <version> 1.2.0.08</version> </dependency>
+<dependency><groupId>javax.servlet       </groupId> <artifactId> com.springsource.javax.servlet.jsp            </artifactId> <version> 2.1.0   </version> </dependency>
+<dependency><groupId>javax.xml.soap      </groupId> <artifactId> com.springsource.javax.xml.soap               </artifactId> <version> 1.3.0   </version> </dependency>
+<dependency><groupId>org.apache.axis     </groupId> <artifactId> com.springsource.org.apache.axis              </artifactId> <version> 1.4.0   </version> </dependency>
+<dependency><groupId>org.apache.commons  </groupId> <artifactId> com.springsource.org.apache.commons.fileupload</artifactId> <version> 1.2.0   </version> </dependency>
+<dependency><groupId>org.apache.commons  </groupId> <artifactId> com.springsource.org.apache.commons.httpclient</artifactId> <version> 3.1.0   </version> </dependency>
+<dependency><groupId>org.apache.taglibs  </groupId> <artifactId> com.springsource.org.apache.taglibs.standard  </artifactId> <version> 1.1.2   </version> </dependency>
+<dependency><groupId>org.codehaus.jackson</groupId> <artifactId> com.springsource.org.codehaus.jackson.mapper  </artifactId> <version> 1.0.0   </version> </dependency>
+<dependency><groupId>org.codehaus.jackson</groupId> <artifactId> com.springsource.org.codehaus.jackson         </artifactId> <version> 1.0.0   </version> </dependency>
+<dependency><groupId>org.mortbay.jetty   </groupId> <artifactId> com.springsource.org.mortbay.jetty.server     </artifactId> <version> 6.1.9   </version> </dependency>
+<dependency><groupId>org.mortbay.jetty   </groupId> <artifactId> com.springsource.org.mortbay.util             </artifactId> <version> 6.1.9   </version> </dependency>
+
+com.springsource.com.caucho-3.2.1.jar
+com.springsource.javax.faces-1.2.0.08.jar
+com.springsource.javax.servlet.jsp-2.1.0.jar
+com.springsource.javax.xml.soap-1.3.0.jar
+com.springsource.org.apache.axis-1.4.0.jar
+com.springsource.org.apache.commons.fileupload-1.2.0.jar
+com.springsource.org.apache.commons.httpclient-3.1.0.jar
+com.springsource.org.apache.taglibs.standard-1.1.2.jar
+com.springsource.org.codehaus.jackson.mapper-1.0.0.jar
+com.springsource.org.codehaus.jackson-1.0.0.jar
+com.springsource.org.mortbay.jetty.server-6.1.9.jar
+com.springsource.org.mortbay.util-6.1.9.jar
+
+F:/repo1/net.sourceforge.serp/com.springsource.serp/1.13.1/com.springsource.serp-1.13.1.jar
+F:/repo1/org.hibernate/com.springsource.org.hibernate/3.3.1.GA/com.springsource.org.hibernate-3.3.1.GA.jar
+F:/repo1/org.hibernate/com.springsource.org.hibernate.annotations/3.4.0.GA/com.springsource.org.hibernate.annotations-3.4.0.GA.jar
+F:/repo1/org.hibernate/com.springsource.org.hibernate.ejb/3.4.0.GA/com.springsource.org.hibernate.ejb-3.4.0.GA.jar
+
+F:/repo1/org.hibernate/com.springsource.org.hibernate.annotations.common/3.3.0.ga/com.springsource.org.hibernate.annotations.common-3.3.0.ga.jar                 /IVY_CACHE/org.hibernate/com.springsource.org.hibernate.annotations.common/3.3.0.ga/com.springsource.org.hibernate.annotations-sources-3.3.0.common.ga.jar
+F:/repo1/com.oracle.toplink.essentials/com.springsource.oracle.toplink.essentials/2.0.0.b41-beta2/com.springsource.oracle.toplink.essentials-2.0.0.b41-beta2.jar /IVY_CACHE/com.oracle.toplink.essentials/com.springsource.oracle.toplink.essentials/2.0.0.b41-beta2/com.springsource.oracle.toplink.essentials-sources-2.0.0.b41-beta2.jar
+F:/repo1/org.apache.openjpa/com.springsource.org.apache.openjpa/1.1.0/com.springsource.org.apache.openjpa-1.1.0.jar                                              /IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.java5/1.0.2/com.springsource.org.apache.openjpa.java5-sources-1.0.2.jar
+F:/repo1/org.eclipse.persistence/com.springsource.org.eclipse.persistence.jpa/1.0.1/com.springsource.org.eclipse.persistence.jpa-1.0.1.jar                       /IVY_CACHE/org.eclipse.persistence/com.springsource.org.eclipse.persistence.jpa/1.0.1/com.springsource.org.eclipse.persistence.jpa-sources-1.0.1.jar
+F:/repo1/org.eclipse.persistence/com.springsource.org.eclipse.persistence/1.0.1/com.springsource.org.eclipse.persistence-1.0.1.jar                               /IVY_CACHE/org.eclipse.persistence/com.springsource.org.eclipse.persistence/1.0.1/com.springsource.org.eclipse.persistence-sources-1.0.1.jar
+F:/repo1/org.apache.ibatis/com.springsource.com.ibatis/2.3.4.726/com.springsource.com.ibatis-2.3.4.726.jar                                                       /IVY_CACHE/org.apache.ibatis/com.springsource.com.ibatis/2.3.4.726/com.springsource.com.ibatis-sources-2.3.4.726.jar
+F:/repo1/javax.jdo/com.springsource.javax.jdo/2.1.0/com.springsource.javax.jdo-2.1.0.jar                                                                         /IVY_CACHE/javax.jdo/com.springsource.javax.jdo/2.1.0/com.springsource.javax.jdo-sources-2.1.0.jar
+F:/repo1/org.dom4j/com.springsource.org.dom4j/1.6.1/com.springsource.org.dom4j-1.6.1.jar                                                                         /IVY_CACHE/org.dom4j/com.springsource.org.dom4j/1.6.1/com.springsource.org.dom4j-sources-1.6.1.jar
+F:/repo1/org.apache.commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-2.1.0.jar                                    /IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-sources-2.1.0.jar
+F:/repo1/edu.oswego.cs.concurrent/com.springsource.edu.oswego.cs.dl.util.concurrent/1.3.4/com.springsource.edu.oswego.cs.dl.util.concurrent-1.3.4.jar            /IVY_CACHE/edu.oswego.cs.concurrent/com.springsource.edu.oswego.cs.dl.util.concurrent/1.3.4/com.springsource.edu.oswego.cs.dl.util.concurrent-sources-1.3.4.jar
+
+<dependency><groupId>net.sourceforge.serp</groupId> <artifactId>com.springsource.serp                     </artifactId> <version>1.13.1  </version> </dependency>
+<dependency><groupId>org.hibernate       </groupId> <artifactId>com.springsource.org.hibernate            </artifactId> <version>3.3.1.GA</version> </dependency>
+<dependency><groupId>org.hibernate       </groupId> <artifactId>com.springsource.org.hibernate.annotations</artifactId> <version>3.4.0.GA</version> </dependency>
+<dependency><groupId>org.hibernate       </groupId> <artifactId>com.springsource.org.hibernate.ejb        </artifactId> <version>3.4.0.GA</version> </dependency>
+com.springsource.serp-1.13.1.jar
+com.springsource.org.hibernate-3.3.1.GA.jar
+com.springsource.org.hibernate.annotations-3.4.0.GA.jar
+com.springsource.org.hibernate.ejb-3.4.0.GA.jar
+
+<dependency><groupId>org.hibernate                </groupId> <artifactId>com.springsource.org.hibernate.annotations.common</artifactId> <version>3.3.0.ga       </version> </dependency>
+<dependency><groupId>com.oracle.toplink.essentials</groupId> <artifactId>com.springsource.oracle.toplink.essentials       </artifactId> <version>2.0.0.b41-beta2</version> </dependency>
+<dependency><groupId>org.apache.openjpa           </groupId> <artifactId>com.springsource.org.apache.openjpa              </artifactId> <version>1.1.0          </version> </dependency>
+<dependency><groupId>org.eclipse.persistence      </groupId> <artifactId>com.springsource.org.eclipse.persistence.jpa     </artifactId> <version>1.0.1          </version> </dependency>
+<dependency><groupId>org.eclipse.persistence      </groupId> <artifactId>com.springsource.org.eclipse.persistence         </artifactId> <version>1.0.1          </version> </dependency>
+<dependency><groupId>org.apache.ibatis            </groupId> <artifactId>com.springsource.com.ibatis                      </artifactId> <version>2.3.4.726      </version> </dependency>
+<dependency><groupId>javax.jdo                    </groupId> <artifactId>com.springsource.javax.jdo                       </artifactId> <version>2.1.0          </version> </dependency>
+<dependency><groupId>org.dom4j                    </groupId> <artifactId>com.springsource.org.dom4j                       </artifactId> <version>1.6.1          </version> </dependency>
+<dependency><groupId>org.apache.commons           </groupId> <artifactId>com.springsource.org.apache.commons.lang         </artifactId> <version>2.1.0          </version> </dependency>
+<dependency><groupId>edu.oswego.cs.concurrent     </groupId> <artifactId>com.springsource.edu.oswego.cs.dl.util.concurrent</artifactId> <version>1.3.4          </version> </dependency>
+
+com.springsource.org.hibernate.annotations.common-3.3.0.ga.jar
+com.springsource.oracle.toplink.essentials-2.0.0.b41-beta2.jar
+com.springsource.org.apache.openjpa-1.1.0.jar
+com.springsource.org.eclipse.persistence.jpa-1.0.1.jar
+com.springsource.org.eclipse.persistence-1.0.1.jar
+com.springsource.com.ibatis-2.3.4.726.jar
+com.springsource.javax.jdo-2.1.0.jar
+com.springsource.org.dom4j-1.6.1.jar
+com.springsource.org.apache.commons.lang-2.1.0.jar
+com.springsource.edu.oswego.cs.dl.util.concurrent-1.3.4.jar
+
+F:/repo1/net.sourceforge.ehcache/com.springsource.net.sf.ehcache/1.6.2/com.springsource.net.sf.ehcache-1.6.2.jar
+F:/repo1/org.apache.velocity/com.springsource.org.apache.velocity/1.5.0/com.springsource.org.apache.velocity-1.5.0.jar                      /IVY_CACHE/org.apache.velocity/com.springsource.org.apache.velocity/1.5.0/com.springsource.org.apache.velocity-sources-1.5.0.jar
+F:/repo1/org.freemarker/com.springsource.freemarker/2.3.15/com.springsource.freemarker-2.3.15.jar                                           /IVY_CACHE/org.freemarker/com.springsource.freemarker/2.3.15/com.springsource.freemarker-sources-2.3.15.jar
+F:/repo1/net.sourceforge.jasperreports/com.springsource.net.sf.jasperreports/2.0.5/com.springsource.net.sf.jasperreports-2.0.5.jar          /IVY_CACHE/net.sourceforge.jasperreports/com.springsource.net.sf.jasperreports/2.0.5/com.springsource.net.sf.jasperreports-sources-2.0.5.jar
+F:/repo1/com.opensymphony.quartz/com.springsource.org.quartz/1.6.2/com.springsource.org.quartz-1.6.2.jar                                    /IVY_CACHE/com.opensymphony.quartz/com.springsource.org.quartz/1.6.2/com.springsource.org.quartz-sources-1.6.2.jar
+F:/repo1/com.bea.commonj/com.springsource.commonj/1.1.0/com.springsource.commonj-1.1.0.jar                                                  /IVY_CACHE/com.bea.commonj/com.springsource.commonj/1.1.0/com.springsource.commonj-sources-1.1.0.jar
+F:/repo1/org/junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar                                                    /IVY_CACHE/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-sources-4.6.0.jar
+F:/repo1/org.apache.commons/com.springsource.org.apache.commons.collections/3.2.0/com.springsource.org.apache.commons.collections-3.2.0.jar /IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.collections/3.2.0/com.springsource.org.apache.commons.collections-sources-3.2.0.jar
+F:/repo1/javax.mail/com.springsource.javax.mail/1.4.0/com.springsource.javax.mail-1.4.0.jar                                                 /IVY_CACHE/javax.mail/com.springsource.javax.mail/1.4.0/com.springsource.javax.mail-sources-1.4.0.jar
+F:/repo1/org.apache.poi/com.springsource.org.apache.poi/3.0.2.FINAL/com.springsource.org.apache.poi-3.0.2.FINAL.jar                         /IVY_CACHE/org.apache.poi/com.springsource.org.apache.poi/3.0.2.FINAL/com.springsource.org.apache.poi-sources-3.0.2.FINAL.jar
+F:/repo1/org.apache.commons/com.springsource.org.apache.commons.beanutils/1.7.0/com.springsource.org.apache.commons.beanutils-1.7.0.jar     /IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.beanutils/1.7.0/com.springsource.org.apache.commons.beanutils-sources-1.7.0.jar
+F:/repo1/com.lowagie.text/com.springsource.com.lowagie.text/2.0.8/com.springsource.com.lowagie.text-2.0.8.jar                               /IVY_CACHE/com.lowagie.text/com.springsource.com.lowagie.text/2.0.8/com.springsource.com.lowagie.text-sources-2.0.8.jar
+F:/repo1/org.apache.commons/com.springsource.org.apache.commons.digester/1.8.0/com.springsource.org.apache.commons.digester-1.8.0.jar       /IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.digester/1.8.0/com.springsource.org.apache.commons.digester-sources-1.8.0.jar
+
+<dependency><groupId>net.sourceforge.ehcache      </groupId> <artifactId> com.springsource.net.sf.ehcache                </artifactId> <version>1.6.2      </version> </dependency>
+<dependency><groupId>org.apache.velocity          </groupId> <artifactId> com.springsource.org.apache.velocity           </artifactId> <version>1.5.0      </version> </dependency>
+<dependency><groupId>org.freemarker               </groupId> <artifactId> com.springsource.freemarker                    </artifactId> <version>2.3.15     </version> </dependency>
+<dependency><groupId>net.sourceforge.jasperreports</groupId> <artifactId> com.springsource.net.sf.jasperreports          </artifactId> <version>2.0.5      </version> </dependency>
+<dependency><groupId>com.opensymphony.quartz      </groupId> <artifactId> com.springsource.org.quartz                    </artifactId> <version>1.6.2      </version> </dependency>
+<dependency><groupId>com.bea.commonj              </groupId> <artifactId> com.springsource.commonj                       </artifactId> <version>1.1.0      </version> </dependency>
+<dependency><groupId>org.apache.commons           </groupId> <artifactId> com.springsource.org.apache.commons.collections</artifactId> <version>3.2.0      </version> </dependency>
+<dependency><groupId>javax.mail                   </groupId> <artifactId> com.springsource.javax.mail                    </artifactId> <version>1.4.0      </version> </dependency>
+<dependency><groupId>org.apache.poi               </groupId> <artifactId> com.springsource.org.apache.poi                </artifactId> <version>3.0.2.FINAL</version> </dependency>
+<dependency><groupId>org.apache.commons           </groupId> <artifactId> com.springsource.org.apache.commons.beanutils  </artifactId> <version>1.7.0      </version> </dependency>
+<dependency><groupId>com.lowagie.text             </groupId> <artifactId> com.springsource.com.lowagie.text              </artifactId> <version>2.0.8      </version> </dependency>
+<dependency><groupId>org.apache.commons           </groupId> <artifactId> com.springsource.org.apache.commons.digester   </artifactId> <version>1.8.0      </version> </dependency>
+
+com.springsource.net.sf.ehcache-1.6.2.jar
+com.springsource.org.apache.velocity-1.5.0.jar
+com.springsource.freemarker-2.3.15.jar
+com.springsource.net.sf.jasperreports-2.0.5.jar
+com.springsource.org.quartz-1.6.2.jar
+com.springsource.commonj-1.1.0.jar
+com.springsource.org.apache.commons.collections-3.2.0.jar
+com.springsource.javax.mail-1.4.0.jar
+com.springsource.org.apache.poi-3.0.2.FINAL.jar
+com.springsource.org.apache.commons.beanutils-1.7.0.jar
+com.springsource.com.lowagie.text-2.0.8.jar
+com.springsource.org.apache.commons.digester-1.8.0.jar
+
+F:\repo1\net\sourceforge\ehcache\com.springsource.net.sf.ehcache\1.6.2\com.springsource.net.sf.ehcache-1.6.2.jar
+F:\repo1\org\apache\velocity\com.springsource.org.apache.velocity\1.5.0\com.springsource.org.apache.velocity-1.5.0.jar
+F:\repo1\org\jdom\com.springsource.org.jdom\1.0.0\com.springsource.org.jdom-1.0.0.jar
+F:\repo1\org\freemarker\com.springsource.freemarker\2.3.15\com.springsource.freemarker-2.3.15.jar
+F:\repo1\net\sourceforge\jasperreports\com.springsource.net.sf.jasperreports\2.0.5\com.springsource.net.sf.jasperreports-2.0.5.jar
+F:\repo1\org\eclipse\jdt\com.springsource.org.eclipse.jdt.core.compiler.batch\3.3.0\com.springsource.org.eclipse.jdt.core.compiler.batch-3.3.0.jar
+F:\repo1\com\opensymphony\quartz\com.springsource.org.quartz\1.6.2\com.springsource.org.quartz-1.6.2.jar
+F:\repo1\com\bea\commonj\com.springsource.commonj\1.1.0\com.springsource.commonj-1.1.0.jar
+F:\repo1\org\apache\commons\com.springsource.org.apache.commons.collections\3.2.0\com.springsource.org.apache.commons.collections-3.2.0.jar
+F:\repo1\org\apache\commons\com.springsource.org.apache.commons.collections\3.2.0\com.springsource.org.apache.commons.collections-3.2.0-sources.jar
+F:\repo1\javax\mail\com.springsource.javax.mail\1.4.0\com.springsource.javax.mail-1.4.0.jar
+F:\repo1\org\apache\poi\com.springsource.org.apache.poi\3.0.2.FINAL\com.springsource.org.apache.poi-3.0.2.FINAL.jar
+F:\repo1\org\apache\commons\com.springsource.org.apache.commons.beanutils\1.7.0\com.springsource.org.apache.commons.beanutils-1.7.0.jar
+F:\repo1\com\lowagie\text\com.springsource.com.lowagie.text\2.0.8\com.springsource.com.lowagie.text-2.0.8.jar
+F:\repo1\org\apache\commons\com.springsource.org.apache.commons.digester\1.8.0\com.springsource.org.apache.commons.digester-1.8.0.jar
+
+F:/repo1/org.mozilla.javascript/com.springsource.org.mozilla.javascript/1.7.0.R2/com.springsource.org.mozilla.javascript-1.7.0.R2.jar
+F:/repo1/org.apache.tiles/com.springsource.org.apache.tiles/2.1.2.osgi/com.springsource.org.apache.tiles-2.1.2.osgi.jar
+F:/repo1/org.apache.tiles/com.springsource.org.apache.tiles.core/2.1.2.osgi/com.springsource.org.apache.tiles.core-2.1.2.osgi.jar
+F:/repo1/org.apache.tiles/com.springsource.org.apache.tiles.jsp/2.1.2/com.springsource.org.apache.tiles.jsp-2.1.2.jar
+F:/repo1/org.apache.tiles/com.springsource.org.apache.tiles.servlet/2.1.2/com.springsource.org.apache.tiles.servlet-2.1.2.jar
+
+F:/repo1/org.slf4j/com.springsource.slf4j.jcl/1.5.3/com.springsource.slf4j.jcl-1.5.3.jar                                sourcepath="/IVY_CACHE/org.slf4j/com.springsource.slf4j.jcl/1.5.3/com.springsource.slf4j.jcl-sources-1.5.3.jar
+F:/repo1/com.sun.syndication/com.springsource.com.sun.syndication/1.0.0/com.springsource.com.sun.syndication-1.0.0.jar  sourcepath="/IVY_CACHE/com.sun.syndication/com.springsource.com.sun.syndication/1.0.0/com.springsource.com.sun.syndication-sources-1.0.0.jar
+F:/repo1/javax.activation/com.springsource.javax.activation/1.1.0/com.springsource.javax.activation-1.1.0.jar           sourcepath="/IVY_CACHE/javax.activation/com.springsource.javax.activation/1.1.0/com.springsource.javax.activation-sources-1.1.0.jar
+F:/repo1/javax.servlet/com.springsource.javax.servlet.jsp.jstl/1.1.2/com.springsource.javax.servlet.jsp.jstl-1.1.2.jar  sourcepath="/IVY_CACHE/javax.servlet/com.springsource.javax.servlet.jsp.jstl/1.1.2/com.springsource.javax.servlet.jsp.jstl-sources-1.1.2.jar
+F:/repo1/net.sourceforge.jexcelapi/com.springsource.jxl/2.6.6/com.springsource.jxl-2.6.6.jar                            sourcepath="/IVY_CACHE/net.sourceforge.jexcelapi/com.springsource.jxl/2.6.6/com.springsource.jxl-sources-2.6.6.jar
+F:/repo1/org.jaxen/com.springsource.org.jaxen/1.1.1/com.springsource.org.jaxen-1.1.1.jar                                sourcepath="/IVY_CACHE/org.jaxen/com.springsource.org.jaxen/1.1.1/com.springsource.org.jaxen-sources-1.1.1.jar
+F:/repo1/org.jdom/com.springsource.org.jdom/1.0.0/com.springsource.org.jdom-1.0.0.jar                                   sourcepath="/IVY_CACHE/org.jdom/com.springsource.org.jdom/1.0.0/com.springsource.org.jdom-1.0.0.jar
+F:/repo1/org.slf4j/com.springsource.slf4j.api/1.5.3/com.springsource.slf4j.api-1.5.3.jar                                sourcepath="/IVY_CACHE/org.slf4j/com.springsource.slf4j.api/1.5.3/com.springsource.slf4j.api-sources-1.5.3.jar
+
+F:/repo1/org.apache.velocity/com.springsource.org.apache.velocity.tools.view/1.4.0/com.springsource.org.apache.velocity.tools.view-1.4.0.jar  sourcepath="/IVY_CACHE/org.apache.velocity/com.springsource.org.apache.velocity.tools.view/1.4.0/com.springsource.org.apache.velocity.tools.view-sources-1.4.0.jar
+
+<dependency><groupId>org.mozilla.javascript</groupId> <artifactId>com.springsource.org.mozilla.javascript  </artifactId> <version>1.7.0.R2  </version> </dependency>
+<dependency><groupId>org.apache.tiles      </groupId> <artifactId>com.springsource.org.apache.tiles        </artifactId> <version>2.1.2.osgi</version> </dependency>
+<dependency><groupId>org.apache.tiles      </groupId> <artifactId>com.springsource.org.apache.tiles.core   </artifactId> <version>2.1.2.osgi</version> </dependency>
+<dependency><groupId>org.apache.tiles      </groupId> <artifactId>com.springsource.org.apache.tiles.jsp    </artifactId> <version>2.1.2     </version> </dependency>
+<dependency><groupId>org.apache.tiles      </groupId> <artifactId>com.springsource.org.apache.tiles.servlet</artifactId> <version>2.1.2     </version> </dependency>
+
+com.springsource.org.mozilla.javascript-1.7.0.R2.jar
+com.springsource.org.apache.tiles-2.1.2.osgi.jar
+com.springsource.org.apache.tiles.core-2.1.2.osgi.jar
+com.springsource.org.apache.tiles.jsp-2.1.2.jar
+com.springsource.org.apache.tiles.servlet-2.1.2.jar
+
+<dependency><groupId>org.slf4j                </groupId> <artifactId>com.springsource.slf4j.jcl             </artifactId> <version>1.5.3</version> </dependency>
+<dependency><groupId>com.sun.syndication      </groupId> <artifactId>com.springsource.com.sun.syndication   </artifactId> <version>1.0.0</version> </dependency>
+<dependency><groupId>javax.activation         </groupId> <artifactId>com.springsource.javax.activation      </artifactId> <version>1.1.0</version> </dependency>
+<dependency><groupId>javax.servlet            </groupId> <artifactId>com.springsource.javax.servlet.jsp.jstl</artifactId> <version>1.1.2</version> </dependency>
+<dependency><groupId>net.sourceforge.jexcelapi</groupId> <artifactId>com.springsource.jxl                   </artifactId> <version>2.6.6</version> </dependency>
+<dependency><groupId>org.jaxen                </groupId> <artifactId>com.springsource.org.jaxen             </artifactId> <version>1.1.1</version> </dependency>
+<dependency><groupId>org.jdom                 </groupId> <artifactId>com.springsource.org.jdom              </artifactId> <version>1.0.0</version> </dependency>
+<dependency><groupId>org.slf4j                </groupId> <artifactId>com.springsource.slf4j.api             </artifactId> <version>1.5.3</version> </dependency>
+
+com.springsource.slf4j.jcl-1.5.3.jar
+com.springsource.com.sun.syndication-1.0.0.jar
+com.springsource.javax.activation-1.1.0.jar
+com.springsource.javax.servlet.jsp.jstl-1.1.2.jar
+com.springsource.jxl-2.6.6.jar
+com.springsource.org.jaxen-1.1.1.jar
+com.springsource.org.jdom-1.0.0.jar
+com.springsource.slf4j.api-1.5.3.jar
+
+<dependency><groupId>org.apache.velocity</groupId> <artifactId>com.springsource.org.apache.velocity.tools.view</artifactId> <version>1.4.0</version> </dependency>
+com.springsource.org.apache.velocity.tools.view-1.4.0.jar
+
+F:/repo1/org.junit/com.springsource.junit/3.8.2/com.springsource.junit-3.8.2.jar                           /IVY_CACHE/org.junit/com.springsource.junit/3.8.2/com.springsource.junit-sources-3.8.2.jar
+F:/repo1/org.testng/com.springsource.org.testng/5.10.0/com.springsource.org.testng-5.10.0.jar              /IVY_CACHE/org.testng/com.springsource.org.testng/5.10.0/com.springsource.org.testng-sources-5.10.0.jar
+F:/repo1/org.antlr/com.springsource.antlr/2.7.6/com.springsource.antlr-2.7.6.jar                           /IVY_CACHE/org.antlr/com.springsource.antlr/2.7.6/com.springsource.antlr-sources-2.7.6.jar
+
+<dependency><groupId>org.junit </groupId> <artifactId>com.springsource.junit     </artifactId> <version>3.8.2 </version> </dependency>
+<dependency><groupId>org.testng</groupId> <artifactId>com.springsource.org.testng</artifactId> <version>5.10.0</version> </dependency>
+<dependency><groupId>org.antlr </groupId> <artifactId>com.springsource.antlr     </artifactId> <version>2.7.6 </version> </dependency>
+
+com.springsource.junit-3.8.2.jar
+com.springsource.org.testng-5.10.0.jar
+com.springsource.antlr-2.7.6.jar
+
+F:/repo1/org.junit/com.springsource.junit/3.8.2/com.springsource.junit-3.8.2.jar
+/IVY_CACHE/org.junit/com.springsource.junit/3.8.2/com.springsource.junit-sources-3.8.2.jar
+F:/repo1/org.testng/com.springsource.org.testng/5.10.0/com.springsource.org.testng-5.10.0.jar
+/IVY_CACHE/org.testng/com.springsource.org.testng/5.10.0/com.springsource.org.testng-sources-5.10.0.jar
+F:/repo1/org.antlr/com.springsource.antlr/2.7.6/com.springsource.antlr-2.7.6.jar
+/IVY_CACHE/org.antlr/com.springsource.antlr/2.7.6/com.springsource.antlr-sources-2.7.6.jar
+
+F:\repo1\org\junit\com.springsource.junit\3.8.2\com.springsource.junit-3.8.2.jar
+F:\repo1\org\junit\com.springsource.junit\3.8.2\com.springsource.junit-3.8.2-sources.jar
+F:\repo1\org\testng\com.springsource.org.testng\5.10.0\com.springsource.org.testng-5.10.0.jar
+F:\repo1\org\testng\com.springsource.org.testng\5.10.0\com.springsource.org.testng-5.10.0-sources.jar
+F:\repo1\org\antlr\com.springsource.antlr\2.7.6\com.springsource.antlr-2.7.6.jar
+F:\repo1\org\antlr\com.springsource.antlr\2.7.6\com.springsource.antlr-2.7.6-sources.jar
+
+IVY_CACHE/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0.jar
+IVY_CACHE/com.jamonapi/com.springsource.com.jamonapi/2.4.0/com.springsource.com.jamonapi-2.4.0.jar
+IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.pool/1.3.0/com.springsource.org.apache.commons.pool-1.3.0.jar
+/IVY_CACHE/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-sources-1.0.0.jar
+/IVY_CACHE/com.jamonapi/com.springsource.com.jamonapi/2.4.0/com.springsource.com.jamonapi-sources-2.4.0.jar
+/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.pool/1.3.0/com.springsource.org.apache.commons.pool-sources-1.3.0.jar
+
+
+F:/repo1/org/aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0.jar
+F:/repo1/com/jamonapi/com.springsource.com.jamonapi/2.4.0/com.springsource.com.jamonapi-2.4.0.jar
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.pool/1.3.0/com.springsource.org.apache.commons.pool-1.3.0.jar
+F:/repo1/org/aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0-sources.jar
+F:/repo1/com/jamonapi/com.springsource.com.jamonapi/2.4.0/com.springsource.com.jamonapi-2.4.0-sources.jar
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.pool/1.3.0/com.springsource.org.apache.commons.pool-1.3.0-sources.jar
+
+
+
+
+
+
+IVY_CACHE/edu.emory.mathcs.backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-3.0.0.jar
+IVY_CACHE/javax.ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-3.0.0.jar
+IVY_CACHE/javax.jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-1.1.0.jar
+IVY_CACHE/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-1.0.0.jar
+IVY_CACHE/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0.jar
+IVY_CACHE/javax.validation/com.springsource.javax.validation/1.0.0.GA/com.springsource.javax.validation-1.0.0.GA.jar
+IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar
+IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.pool/1.4.0/com.springsource.org.apache.commons.pool-1.4.0.jar
+IVY_CACHE/org.codehaus.groovy/com.springsource.org.codehaus.groovy/1.6.5/com.springsource.org.codehaus.groovy-1.6.5.jar
+IVY_CACHE/org.objectweb.asm/com.springsource.org.objectweb.asm/3.1.0/com.springsource.org.objectweb.asm-3.1.0.jar
+IVY_CACHE/org.objectweb.asm/com.springsource.org.objectweb.asm.commons/3.1.0/com.springsource.org.objectweb.asm.commons-3.1.0.jar
+IVY_CACHE/org.hibernate/com.springsource.org.hibernate.validator/4.0.0.GA/com.springsource.org.hibernate.validator-4.0.0.GA.jar
+IVY_CACHE/org.joda/com.springsource.org.joda.time/1.6.0/com.springsource.org.joda.time-1.6.0.jar
+IVY_CACHE/org.jruby/com.springsource.org.jruby/1.4.0/com.springsource.org.jruby-1.4.0.jar
+IVY_CACHE/javax.inject/com.springsource.org.atinject.tck/1.0.0/com.springsource.org.atinject.tck-1.0.0.jar
+IVY_CACHE/javax.xml.rpc/com.springsource.javax.xml.rpc/1.1.0/com.springsource.javax.xml.rpc-1.1.0.jar
+IVY_CACHE/org.beanshell/com.springsource.bsh/2.0.0.b4/com.springsource.bsh-2.0.0.b4.jar
+/IVY_CACHE/edu.emory.mathcs.backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-sources-3.0.0.jar
+/IVY_CACHE/javax.ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-sources-3.0.0.jar
+/IVY_CACHE/javax.jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-sources-1.1.0.jar
+/IVY_CACHE/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-sources-1.0.0.jar
+/IVY_CACHE/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-sources-1.1.0.jar
+/IVY_CACHE/javax.validation/com.springsource.javax.validation/1.0.0/com.springsource.javax.validation-sources-1.0.0.GA.jar
+/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-sources-1.2.2.osgi.jar
+/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.pool/1.4.0/com.springsource.org.apache.commons.pool-sources-1.4.0.jar
+/IVY_CACHE/org.codehaus.groovy/com.springsource.org.codehaus.groovy/1.6.5/com.springsource.org.codehaus.groovy-sources-1.6.5.jar
+IVY_CACHE/org.objectweb.asm/com.springsource.org.objectweb.asm/3.1.0/com.springsource.org.objectweb.asm-sources-3.1.0.jar
+IVY_CACHE/org.objectweb.asm/com.springsource.org.objectweb.asm.commons/3.1.0/com.springsource.org.objectweb.asm.commons-sources-3.1.0.jar
+/IVY_CACHE/org.hibernate/com.springsource.org.hibernate.validator/4.0.0.GA/com.springsource.org.hibernate.validator-sources-4.0.0.GA.jar
+/IVY_CACHE/org.joda/com.springsource.org.joda.time/1.6.0/com.springsource.org.joda.time-sources-1.6.0.jar
+/IVY_CACHE/org.jruby/com.springsource.org.jruby/1.4.0/com.springsource.org.jruby-sources-1.4.0.jar
+/IVY_CACHE/javax.inject/com.springsource.org.atinject.tck/1.0.0/com.springsource.org.atinject.tck-sources-1.0.0.jar
+
+
+F:/repo1/edu/emory/mathcs/backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-3.0.0.jar
+F:/repo1/javax/ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-3.0.0.jar
+F:/repo1/javax/jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-1.1.0.jar
+F:/repo1/javax/persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-1.0.0.jar
+F:/repo1/javax/transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0.jar
+F:/repo1/javax/validation/com.springsource.javax.validation/1.0.0.GA/com.springsource.javax.validation-1.0.0.GA.jar
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.pool/1.4.0/com.springsource.org.apache.commons.pool-1.4.0.jar
+F:/repo1/org/codehaus/groovy/com.springsource.org.codehaus.groovy/1.6.5/com.springsource.org.codehaus.groovy-1.6.5.jar
+F:/repo1/org/objectweb/asm/com.springsource.org.objectweb.asm/3.1.0/com.springsource.org.objectweb.asm-3.1.0.jar
+F:/repo1/org/objectweb/asm/com.springsource.org.objectweb.asm.commons/3.1.0/com.springsource.org.objectweb.asm.commons-3.1.0.jar
+F:/repo1/org/hibernate/com.springsource.org.hibernate.validator/4.0.0.GA/com.springsource.org.hibernate.validator-4.0.0.GA.jar
+F:/repo1/org/joda/com.springsource.org.joda.time/1.6.0/com.springsource.org.joda.time-1.6.0.jar
+F:/repo1/org/jruby/com.springsource.org.jruby/1.4.0/com.springsource.org.jruby-1.4.0.jar
+F:/repo1/javax/inject/com.springsource.org.atinject.tck/1.0.0/com.springsource.org.atinject.tck-1.0.0.jar
+F:/repo1/javax/xml/rpc/com.springsource.javax.xml.rpc/1.1.0/com.springsource.javax.xml.rpc-1.1.0.jar
+F:/repo1/org/beanshell/com.springsource.bsh/2.0.0.b4/com.springsource.bsh-2.0.0.b4.jar
+F:/repo1/edu/emory/mathcs/backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-3.0.0-sources.jar
+F:/repo1/javax/ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-3.0.0-sources.jar
+F:/repo1/javax/jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-1.1.0-sources.jar
+F:/repo1/javax/persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-1.0.0-sources.jar
+F:/repo1/javax/transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0-sources.jar
+F:/repo1/javax/validation/com.springsource.javax.validation/1.0.0.GA/com.springsource.javax.validation-1.0.0.GA-sources.jar
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-1.2.2.osgi-sources.jar
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.pool/1.4.0/com.springsource.org.apache.commons.pool-1.4.0-sources.jar
+F:/repo1/org/codehaus/groovy/com.springsource.org.codehaus.groovy/1.6.5/com.springsource.org.codehaus.groovy-1.6.5-sources.jar
+F:/repo1/org/objectweb/asm/com.springsource.org.objectweb.asm/3.1.0/com.springsource.org.objectweb.asm-3.1.0-sources.jar
+F:/repo1/org/objectweb/asm/com.springsource.org.objectweb.asm.commons/3.1.0/com.springsource.org.objectweb.asm.commons-3.1.0-sources.jar
+F:/repo1/org/hibernate/com.springsource.org.hibernate.validator/4.0.0.GA/com.springsource.org.hibernate.validator-4.0.0.GA-sources.jar
+F:/repo1/org/joda/com.springsource.org.joda.time/1.6.0/com.springsource.org.joda.time-1.6.0-sources.jar
+F:/repo1/org/jruby/com.springsource.org.jruby/1.4.0/com.springsource.org.jruby-1.4.0-sources.jar
+F:/repo1/javax/inject/com.springsource.org.atinject.tck/1.0.0/com.springsource.org.atinject.tck-1.0.0-sources.jar
+
+
+
+F:\repo1\javax\inject\com.springsource.javax.inject\1.0.0\com.springsource.javax.inject-1.0.0.jar
+F:\repo1\org\aopalliance\com.springsource.org.aopalliance\1.0.0\com.springsource.org.aopalliance-1.0.0.jar
+F:\repo1\org\apache\commons\com.springsource.org.apache.commons.logging\1.1.1\com.springsource.org.apache.commons.logging-1.1.1.jar
+F:\repo1\org\apache\log4j\com.springsource.org.apache.log4j\1.2.15\com.springsource.org.apache.log4j-1.2.15.jar
+F:\repo1\org\objectweb\asm\com.springsource.org.objectweb.asm.tree\3.1.0\com.springsource.org.objectweb.asm.tree-3.1.0.jar
+F:\repo1\org\junit\com.springsource.junit\3.8.2\com.springsource.junit-3.8.2.jar
+F:\repo1\org\aspectj\com.springsource.org.aspectj.weaver\1.6.8.RELEASE\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+F:\repo1\javax\inject\com.springsource.javax.inject\1.0.0\com.springsource.javax.inject-1.0.0-sources.jar
+F:\repo1\org\aopalliance\com.springsource.org.aopalliance\1.0.0\com.springsource.org.aopalliance-1.0.0-sources.jar
+F:\repo1\org\apache\commons\com.springsource.org.apache.commons.logging\1.1.1\com.springsource.org.apache.commons.logging-1.1.1-sources.jar
+F:\repo1\org\apache\log4j\com.springsource.org.apache.log4j\1.2.15\com.springsource.org.apache.log4j-1.2.15-sources.jar
+F:\repo1\org\objectweb\asm\com.springsource.org.objectweb.asm.tree\3.1.0\com.springsource.org.objectweb.asm.tree-3.1.0-sources.jar
+F:\repo1\org\junit\com.springsource.junit\3.8.2\com.springsource.junit-3.8.2-sources.jar
+F:\repo1\org\aspectj\com.springsource.org.aspectj.weaver\1.6.8.RELEASE\com.springsource.org.aspectj.weaver-source-1.6.8.RELEASE.jar
+
+IVY_CACHE/com.thoughtworks.xstream/com.springsource.com.thoughtworks.xstream/1.3.0/com.springsource.com.thoughtworks.xstream-1.3.0.jar
+IVY_CACHE/javax.xml.bind/com.springsource.javax.xml.bind/2.1.7/com.springsource.javax.xml.bind-2.1.7.jar
+IVY_CACHE/net.sourceforge.jibx/com.springsource.org.jibx.runtime/1.1.5/com.springsource.org.jibx.runtime-1.1.5.jar
+IVY_CACHE/org.apache.xmlbeans/com.springsource.org.apache.xmlbeans/2.4.0/com.springsource.org.apache.xmlbeans-2.4.0.jar
+IVY_CACHE/org.codehaus.castor/com.springsource.org.castor/1.2.0/com.springsource.org.castor-1.2.0.jar
+IVY_CACHE/org.codehaus.jettison/com.springsource.org.codehaus.jettison/1.0.1/com.springsource.org.codehaus.jettison-1.0.1.jar
+IVY_CACHE/org.xmlpull/com.springsource.org.xmlpull/1.1.3.4-O/com.springsource.org.xmlpull-1.1.3.4-O.jar
+IVY_CACHE/org.apache.xerces/com.springsource.org.apache.xerces/2.8.1/com.springsource.org.apache.xerces-2.8.1.jar
+
+/IVY_CACHE/com.thoughtworks.xstream/com.springsource.com.thoughtworks.xstream/1.3.0/com.springsource.com.thoughtworks.xstream-sources-1.3.0.jar
+/IVY_CACHE/javax.xml.bind/com.springsource.javax.xml.bind/2.1.7/com.springsource.javax.xml.bind-sources-2.1.7.jar
+/IVY_CACHE/net.sourceforge.jibx/com.springsource.org.jibx.runtime/1.1.5/com.springsource.org.jibx.runtime-sources-1.1.5.jar
+/IVY_CACHE/org.apache.xmlbeans/com.springsource.org.apache.xmlbeans/2.4.0/com.springsource.org.apache.xmlbeans-sources-2.4.0.jar
+/IVY_CACHE/org.codehaus.castor/com.springsource.org.castor/1.2.0/com.springsource.org.castor-sources-1.2.0.jar
+/IVY_CACHE/org.codehaus.jettison/com.springsource.org.codehaus.jettison/1.0.1/com.springsource.org.codehaus.jettison-sources-1.0.1.jar
+/IVY_CACHE/org.xmlpull/com.springsource.org.xmlpull/1.1.3.4-O/com.springsource.org.xmlpull-sources-1.1.3.4-O.jar
+/IVY_CACHE/org.apache.xerces/com.springsource.org.apache.xerces/2.8.1/com.springsource.org.apache.xerces-sources-2.8.1.jar
+
+
+
+IVY_CACHE/org.beanshell/com.springsource.bsh/2.0.0.b4/com.springsource.bsh-2.0.0.b4.jar
+IVY_CACHE/com.sun.enterprise/com.springsource.com.sun.enterprise.loader/1.0.0/com.springsource.com.sun.enterprise.loader-1.0.0.jar
+IVY_CACHE/com.oracle.oc4j/com.springsource.oracle.classloader/10.1.3.1/com.springsource.oracle.classloader-10.1.3.1.jar
+IVY_CACHE/javax.xml.rpc/com.springsource.javax.xml.rpc/1.1.0/com.springsource.javax.xml.rpc-1.1.0.jar
+
+F:/repo1/org/beanshell/com.springsource.bsh/2.0.0.b4/com.springsource.bsh-2.0.0.b4.jar
+F:/repo1/com/sun/enterprise/com.springsource.com.sun.enterprise.loader/1.0.0/com.springsource.com.sun.enterprise.loader-1.0.0.jar
+F:/repo1/com/oracle/oc4j/com.springsource.oracle.classloader/10.1.3.1/com.springsource.oracle.classloader-10.1.3.1.jar
+F:/repo1/javax/xml/rpc/com.springsource.javax.xml.rpc/1.1.0/com.springsource.javax.xml.rpc-1.1.0.jar
+
+
+IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.pool/1.4.0/com.springsource.org.apache.commons.pool-1.4.0.jar
+IVY_CACHE/org.jruby/com.springsource.org.jruby/1.1.0/com.springsource.org.jruby-1.1.0.jar
+IVY_CACHE/org.codehaus.groovy/com.springsource.org.codehaus.groovy/1.5.1/com.springsource.org.codehaus.groovy-1.5.1.jar
+IVY_CACHE/javax.ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-3.0.0.jar
+IVY_CACHE/javax.jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-1.1.0.jar
+IVY_CACHE/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-1.0.0.jar
+IVY_CACHE/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0.jar
+IVY_CACHE/edu.emory.mathcs.backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-3.0.0.jar
+IVY_CACHE/org.antlr/com.springsource.antlr/2.7.6/com.springsource.antlr-2.7.6.jar
+IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar
+/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.pool/1.4.0/com.springsource.org.apache.commons.pool-sources-1.4.0.jar
+/IVY_CACHE/org.jruby/com.springsource.org.jruby/1.1.0/com.springsource.org.jruby-sources-1.1.0.jar
+/IVY_CACHE/org.codehaus.groovy/com.springsource.org.codehaus.groovy/1.5.1/com.springsource.org.codehaus.groovy-sources-1.5.1.jar
+/IVY_CACHE/javax.ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-sources-3.0.0.jar
+/IVY_CACHE/javax.jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-sources-1.1.0.jar
+/IVY_CACHE/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-sources-1.0.0.jar
+/IVY_CACHE/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-sources-1.1.0.jar
+/IVY_CACHE/edu.emory.mathcs.backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-sources-3.0.0.jar
+/IVY_CACHE/org.antlr/com.springsource.antlr/2.7.6/com.springsource.antlr-sources-2.7.6.jar
+/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-sources-1.2.2.osgi.jar
+
+
+
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.pool/1.4.0/com.springsource.org.apache.commons.pool-1.4.0.jar
+F:/repo1/org/jruby/com.springsource.org.jruby/1.1.0/com.springsource.org.jruby-1.1.0.jar
+F:/repo1/org/codehaus/groovy/com.springsource.org.codehaus.groovy/1.5.1/com.springsource.org.codehaus.groovy-1.5.1.jar
+F:/repo1/javax/ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-3.0.0.jar
+F:/repo1/javax/jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-1.1.0.jar
+F:/repo1/javax/persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-1.0.0.jar
+F:/repo1/javax/transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0.jar
+F:/repo1/edu/emory/mathcs/backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-3.0.0.jar
+F:/repo1/org/antlr/com.springsource.antlr/2.7.6/com.springsource.antlr-2.7.6.jar
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.pool/1.4.0/com.springsource.org.apache.commons.pool-1.4.0-sources.jar
+F:/repo1/org/jruby/com.springsource.org.jruby/1.1.0/com.springsource.org.jruby-1.1.0-sources.jar
+F:/repo1/org/codehaus/groovy/com.springsource.org.codehaus.groovy/1.5.1/com.springsource.org.codehaus.groovy-1.5.1-sources.jar
+F:/repo1/javax/ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-3.0.0-sources.jar
+F:/repo1/javax/jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-1.1.0-sources.jar
+F:/repo1/javax/persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-1.0.0-sources.jar
+F:/repo1/javax/transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0-sources.jar
+F:/repo1/edu/emory/mathcs/backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-3.0.0-sources.jar
+F:/repo1/org/antlr/com.springsource.antlr/2.7.6/com.springsource.antlr-2.7.6-sources.jar
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-1.2.2.osgi-sources.jar
+
+
+	<classpathentry kind="lib" path="target/artifacts/org.springframework.oxm-sources.jar"/>
+	<classpathentry kind="lib" path="target/artifacts/org.springframework.oxm.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="lib" path="/Users/cbeams/Work/springsource/products/opensource/portfolio/spring-framework/org.springframework.web.servlet/target/artifacts/org.springframework.web.servlet.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/JVM 1.6.0"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/com.springsource.server.ide.server.core.runtime.classpath/SpringSource dm Server (Runtime) v1.0"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IVY_CACHE/org.hibernate/com.springsource.org.hibernate/3.2.6.ga/com.springsource.org.hibernate-3.2.6.ga.jar
+IVY_CACHE/org.hibernate/com.springsource.org.hibernate.annotations.common/3.3.0.ga/com.springsource.org.hibernate.annotations.common-3.3.0.ga.jar
+IVY_CACHE/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-1.0.0.jar
+IVY_CACHE/com.oracle.toplink.essentials/com.springsource.oracle.toplink.essentials/2.0.0.b41-beta2/com.springsource.oracle.toplink.essentials-2.0.0.b41-beta2.jar
+IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa/1.0.2/com.springsource.org.apache.openjpa-1.0.2.jar
+IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.lib/1.0.2/com.springsource.org.apache.openjpa.lib-1.0.2.jar
+IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.persistence/1.0.2/com.springsource.org.apache.openjpa.persistence-1.0.2.jar
+IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.java5/1.0.2/com.springsource.org.apache.openjpa.java5-1.0.2.jar
+IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.jdbc/1.0.2/com.springsource.org.apache.openjpa.jdbc-1.0.2.jar
+IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.jdbc.java5/1.0.2/com.springsource.org.apache.openjpa.jdbc.java5-1.0.2.jar
+IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.lib.java5/1.0.2/com.springsource.org.apache.openjpa.lib.java5-1.0.2.jar
+IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.persistence.jdbc/1.0.2/com.springsource.org.apache.openjpa.persistence.jdbc-1.0.2.jar
+IVY_CACHE/org.eclipse.persistence/com.springsource.org.eclipse.persistence.jpa/1.0.1/com.springsource.org.eclipse.persistence.jpa-1.0.1.jar
+IVY_CACHE/org.eclipse.persistence/com.springsource.org.eclipse.persistence/1.0.1/com.springsource.org.eclipse.persistence-1.0.1.jar
+IVY_CACHE/org.apache.ibatis/com.springsource.com.ibatis/2.3.4.726/com.springsource.com.ibatis-2.3.4.726.jar
+IVY_CACHE/org.hibernate/com.springsource.org.hibernate.annotations/3.3.0.ga/com.springsource.org.hibernate.annotations-3.3.0.ga.jar
+IVY_CACHE/javax.jdo/com.springsource.javax.jdo/2.1.0/com.springsource.javax.jdo-2.1.0.jar
+IVY_CACHE/org.hibernate/com.springsource.org.hibernate.ejb/3.3.1.ga/com.springsource.org.hibernate.ejb-3.3.1.ga.jar
+IVY_CACHE/org.dom4j/com.springsource.org.dom4j/1.6.1/com.springsource.org.dom4j-1.6.1.jar
+IVY_CACHE/org.hsqldb/com.springsource.org.hsqldb/1.8.0.9/com.springsource.org.hsqldb-1.8.0.9.jar
+IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-2.1.0.jar
+IVY_CACHE/org.jboss.util/com.springsource.org.jboss.util/2.0.4.GA/com.springsource.org.jboss.util-2.0.4.GA.jar
+IVY_CACHE/edu.oswego.cs.concurrent/com.springsource.edu.oswego.cs.dl.util.concurrent/1.3.4/com.springsource.edu.oswego.cs.dl.util.concurrent-1.3.4.jar
+
+F:/repo1/org/hibernate/com.springsource.org.hibernate/3.2.6.ga/com.springsource.org.hibernate-3.2.6.ga.jar
+F:/repo1/org/hibernate/com.springsource.org.hibernate.annotations.common/3.3.0.ga/com.springsource.org.hibernate.annotations.common-3.3.0.ga.jar
+F:/repo1/javax/persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-1.0.0.jar
+F:/repo1/com/oracle/toplink/essentials/com.springsource.oracle.toplink.essentials/2.0.0.b41-beta2/com.springsource.oracle.toplink.essentials-2.0.0.b41-beta2.jar
+F:/repo1/org/apache/openjpa/com.springsource.org.apache.openjpa/1.0.2/com.springsource.org.apache.openjpa-1.0.2.jar
+F:/repo1/org/apache/openjpa/com.springsource.org.apache.openjpa.lib/1.0.2/com.springsource.org.apache.openjpa.lib-1.0.2.jar
+F:/repo1/org/apache/openjpa/com.springsource.org.apache.openjpa.persistence/1.0.2/com.springsource.org.apache.openjpa.persistence-1.0.2.jar
+F:/repo1/org/apache/openjpa/com.springsource.org.apache.openjpa.java5/1.0.2/com.springsource.org.apache.openjpa.java5-1.0.2.jar
+F:/repo1/org/apache/openjpa/com.springsource.org.apache.openjpa.jdbc/1.0.2/com.springsource.org.apache.openjpa.jdbc-1.0.2.jar
+F:/repo1/org/apache/openjpa/com.springsource.org.apache.openjpa.jdbc.java5/1.0.2/com.springsource.org.apache.openjpa.jdbc.java5-1.0.2.jar
+F:/repo1/org/apache/openjpa/com.springsource.org.apache.openjpa.lib.java5/1.0.2/com.springsource.org.apache.openjpa.lib.java5-1.0.2.jar
+F:/repo1/org/apache/openjpa/com.springsource.org.apache.openjpa.persistence.jdbc/1.0.2/com.springsource.org.apache.openjpa.persistence.jdbc-1.0.2.jar
+F:/repo1/org/eclipse/persistence/com.springsource.org.eclipse.persistence.jpa/1.0.1/com.springsource.org.eclipse.persistence.jpa-1.0.1.jar
+F:/repo1/org/eclipse/persistence/com.springsource.org.eclipse.persistence/1.0.1/com.springsource.org.eclipse.persistence-1.0.1.jar
+F:/repo1/org/apache/ibatis/com.springsource.com.ibatis/2.3.4.726/com.springsource.com.ibatis-2.3.4.726.jar
+F:/repo1/org/hibernate/com.springsource.org.hibernate.annotations/3.3.0.ga/com.springsource.org.hibernate.annotations-3.3.0.ga.jar
+F:/repo1/javax/jdo/com.springsource.javax.jdo/2.1.0/com.springsource.javax.jdo-2.1.0.jar
+F:/repo1/org/hibernate/com.springsource.org.hibernate.ejb/3.3.1.ga/com.springsource.org.hibernate.ejb-3.3.1.ga.jar
+F:/repo1/org/dom4j/com.springsource.org.dom4j/1.6.1/com.springsource.org.dom4j-1.6.1.jar
+F:/repo1/org/hsqldb/com.springsource.org.hsqldb/1.8.0.9/com.springsource.org.hsqldb-1.8.0.9.jar
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-2.1.0.jar
+F:/repo1/org/jboss/util/com.springsource.org.jboss.util/2.0.4.GA/com.springsource.org.jboss.util-2.0.4.GA.jar
+F:/repo1/edu/oswego/cs/concurrent/com.springsource.edu.oswego.cs.dl.util.concurrent/1.3.4/com.springsource.edu.oswego.cs.dl.util.concurrent-1.3.4.jar
+
+
+
+/IVY_CACHE/org.hibernate/com.springsource.org.hibernate/3.2.6.ga/com.springsource.org.hibernate-sources-3.2.6.ga.jar
+/IVY_CACHE/org.hibernate/com.springsource.org.hibernate.annotations.common/3.3.0.ga/com.springsource.org.hibernate.annotations-sources-3.3.0.common.ga.jar
+IVY_CACHE/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-sources-1.0.0.jar
+/IVY_CACHE/com.oracle.toplink.essentials/com.springsource.oracle.toplink.essentials/2.0.0.b41-beta2/com.springsource.oracle.toplink.essentials-sources-2.0.0.b41-beta2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa/1.0.2/com.springsource.org.apache.openjpa-sources-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.lib/1.0.2/com.springsource.org.apache.openjpa.lib-sources-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.persistence/1.0.2/com.springsource.org.apache.openjpa.persistence-sources-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.java5/1.0.2/com.springsource.org.apache.openjpa.java5-sources-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.jdbc/1.0.2/com.springsource.org.apache.openjpa.jdbc-sources-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.jdbc.java5/1.0.2/com.springsource.org.apache.openjpa.jdbc.java5-sources-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.lib.java5/1.0.2/com.springsource.org.apache.openjpa.lib.java5-sources-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.persistence.jdbc/1.0.2/com.springsource.org.apache.openjpa.persistence.jdbc-sources-1.0.2.jar
+/IVY_CACHE/org.eclipse.persistence/com.springsource.org.eclipse.persistence.jpa/1.0.1/com.springsource.org.eclipse.persistence.jpa-sources-1.0.1.jar
+/IVY_CACHE/org.eclipse.persistence/com.springsource.org.eclipse.persistence/1.0.1/com.springsource.org.eclipse.persistence-sources-1.0.1.jar
+/IVY_CACHE/org.apache.ibatis/com.springsource.com.ibatis/2.3.4.726/com.springsource.com.ibatis-sources-2.3.4.726.jar
+/IVY_CACHE/org.hibernate/com.springsource.org.hibernate.annotations/3.3.0.ga/com.springsource.org.hibernate.annotations-sources-3.3.0.ga.jar
+/IVY_CACHE/javax.jdo/com.springsource.javax.jdo/2.1.0/com.springsource.javax.jdo-sources-2.1.0.jar
+/IVY_CACHE/org.hibernate/com.springsource.org.hibernate.ejb/3.3.1.ga/com.springsource.org.hibernate.ejb-sources-3.3.1.ga.jar
+/IVY_CACHE/org.dom4j/com.springsource.org.dom4j/1.6.1/com.springsource.org.dom4j-sources-1.6.1.jar
+/IVY_CACHE/org.hsqldb/com.springsource.org.hsqldb/1.8.0.9/com.springsource.org.hsqldb-sources-1.8.0.9.jar
+/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-sources-2.1.0.jar
+/IVY_CACHE/org.jboss.util/com.springsource.org.jboss.util/2.0.4.GA/com.springsource.org.jboss.util-sources-2.0.4.GA.jar
+/IVY_CACHE/edu.oswego.cs.concurrent/com.springsource.edu.oswego.cs.dl.util.concurrent/1.3.4/com.springsource.edu.oswego.cs.dl.util.concurrent-sources-1.3.4.jar
+
+
+
+
+
+
+
+
+IVY_CACHE/net.sourceforge.serp/com.springsource.serp/1.13.1/com.springsource.serp-1.13.1.jar
+F:\repo1\net\sourceforge\serp\com.springsource.serp\1.13.1\com.springsource.serp-1.13.1.jar
+
+
+
+F:\repo1\javax\persistence\com.springsource.javax.persistence\1.0.0\com.springsource.javax.persistence-1.0.0-sources.jar
+
+F:\repo1\org\hibernate\com.springsource.org.hibernate\3.2.6.ga\com.springsource.org.hibernate-3.2.6.ga-sources.jar
+F:\repo1\org\hibernate\com.springsource.org.hibernate.annotations.common\3.3.0.ga\com.springsource.org.hibernate.annotations.common-3.3.0.ga.jar
+F:\repo1\org\hibernate\com.springsource.org.hibernate.annotations.common\3.3.0.ga\com.springsource.org.hibernate.annotations.common-3.3.0.ga-sources.jar
+
+
+
+
+
+
+
+
+
+IVY_CACHE/javax.portlet/com.springsource.javax.portlet/2.0.0/com.springsource.javax.portlet-2.0.0.jar
+F:/repo1/javax/portlet/com.springsource.javax.portlet/2.0.0/com.springsource.javax.portlet-2.0.0.jar
+F:/repo1/javax/portlet/com.springsource.javax.portlet/2.0.0/com.springsource.javax.portlet-2.0.0-sources.jar
+
+
+
+
+IVY_CACHE/javax.jdo/com.springsource.javax.jdo/2.0.0/com.springsource.javax.jdo-2.0.0.jar
+IVY_CACHE/javax.servlet/com.springsource.javax.servlet.jsp.jstl/1.1.2/com.springsource.javax.servlet.jsp.jstl-1.1.2.jar
+IVY_CACHE/net.sourceforge.jexcelapi/com.springsource.jxl/2.6.6/com.springsource.jxl-2.6.6.jar
+IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.fileupload/1.2.0/com.springsource.org.apache.commons.fileupload-1.2.0.jar
+IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles/2.0.5/com.springsource.org.apache.tiles-2.0.5.jar
+IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles.core/2.0.5.osgi/com.springsource.org.apache.tiles.core-2.0.5.osgi.jar
+IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles.jsp/2.0.5/com.springsource.org.apache.tiles.jsp-2.0.5.jar
+IVY_CACHE/org.apache.velocity/com.springsource.org.apache.velocity.tools.view/1.4.0/com.springsource.org.apache.velocity.tools.view-1.4.0.jar
+IVY_CACHE/com.sun.syndication/com.springsource.com.sun.syndication/0.9.0/com.springsource.com.sun.syndication-0.9.0.jar
+/IVY_CACHE/javax.jdo/com.springsource.javax.jdo/2.0.0/com.springsource.javax.jdo-sources-2.0.0.jar
+/IVY_CACHE/javax.servlet/com.springsource.javax.servlet.jsp.jstl/1.1.2/com.springsource.javax.servlet.jsp.jstl-sources-1.1.2.jar
+/IVY_CACHE/net.sourceforge.jexcelapi/com.springsource.jxl/2.6.6/com.springsource.jxl-sources-2.6.6.jar
+/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.fileupload/1.2.0/com.springsource.org.apache.commons.fileupload-sources-1.2.0.jar
+/IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles/2.0.5/com.springsource.org.apache.tiles-sources-2.0.5.jar
+/IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles.core/2.0.5.osgi/com.springsource.org.apache.tiles.core-sources-2.0.5.osgi.jar
+/IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles.jsp/2.0.5/com.springsource.org.apache.tiles.jsp-sources-2.0.5.jar
+/IVY_CACHE/org.apache.velocity/com.springsource.org.apache.velocity.tools.view/1.4.0/com.springsource.org.apache.velocity.tools.view-sources-1.4.0.jar
+
+
+
+
+
+
+
+F:/repo1/javax/jdo/com.springsource.javax.jdo/2.0.0/com.springsource.javax.jdo-2.0.0.jar
+F:/repo1/javax/servlet/com.springsource.javax.servlet.jsp.jstl/1.1.2/com.springsource.javax.servlet.jsp.jstl-1.1.2.jar
+F:/repo1/net/sourceforge/jexcelapi/com.springsource.jxl/2.6.6/com.springsource.jxl-2.6.6.jar
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.fileupload/1.2.0/com.springsource.org.apache.commons.fileupload-1.2.0.jar
+F:/repo1/org/apache/tiles/com.springsource.org.apache.tiles/2.0.5/com.springsource.org.apache.tiles-2.0.5.jar
+F:/repo1/org/apache/tiles/com.springsource.org.apache.tiles.core/2.0.5.osgi/com.springsource.org.apache.tiles.core-2.0.5.osgi.jar
+F:/repo1/org/apache/tiles/com.springsource.org.apache.tiles.jsp/2.0.5/com.springsource.org.apache.tiles.jsp-2.0.5.jar
+F:/repo1/org/apache/velocity/com.springsource.org.apache.velocity.tools.view/1.4.0/com.springsource.org.apache.velocity.tools.view-1.4.0.jar
+F:/repo1/com/sun/syndication/com.springsource.com.sun.syndication/0.9.0/com.springsource.com.sun.syndication-0.9.0.jar
+F:/repo1/javax/jdo/com.springsource.javax.jdo/2.0.0/com.springsource.javax.jdo-2.0.0-sources.jar
+F:/repo1/javax/servlet/com.springsource.javax.servlet.jsp.jstl/1.1.2/com.springsource.javax.servlet.jsp.jstl-1.1.2-sources.jar
+F:/repo1/net/sourceforge/jexcelapi/com.springsource.jxl/2.6.6/com.springsource.jxl-2.6.6-sources.jar
+F:/repo1/org/apache/commons/com.springsource.org.apache.commons.fileupload/1.2.0/com.springsource.org.apache.commons.fileupload-1.2.0-sources.jar
+F:/repo1/org/apache/tiles/com.springsource.org.apache.tiles/2.0.5/com.springsource.org.apache.tiles-2.0.5-sources.jar
+F:/repo1/org/apache/tiles/com.springsource.org.apache.tiles.core/2.0.5.osgi/com.springsource.org.apache.tiles.core-2.0.5.osgi-sources.jar
+F:/repo1/org/apache/tiles/com.springsource.org.apache.tiles.jsp/2.0.5/com.springsource.org.apache.tiles.jsp-2.0.5-sources.jar
+F:/repo1/org/apache/velocity/com.springsource.org.apache.velocity.tools.view/1.4.0/com.springsource.org.apache.velocity.tools.view-1.4.0-sources.jar
+
+IVY_CACHE/org.jaxen/com.springsource.org.jaxen/1.1.1/com.springsource.org.jaxen-1.1.1.jar
+IVY_CACHE/org.jdom/com.springsource.org.jdom/1.0.0/com.springsource.org.jdom-1.0.0.jar
+/IVY_CACHE/org.jaxen/com.springsource.org.jaxen/1.1.1/com.springsource.org.jaxen-sources-1.1.1.jar
+/IVY_CACHE/org.jdom/com.springsource.org.jdom/1.0.0/com.springsource.org.jdom-1.0.0.jar
+
+F:/repo1/org/jaxen/com.springsource.org.jaxen/1.1.1/com.springsource.org.jaxen-1.1.1.jar
+F:/repo1/org/jdom/com.springsource.org.jdom/1.0.0/com.springsource.org.jdom-1.0.0.jar
+F:/repo1/org/jaxen/com.springsource.org.jaxen/1.1.1/com.springsource.org.jaxen-1.1.1-sources.jar
+F:/repo1/org/jdom/com.springsource.org.jdom/1.0.0/com.springsource.org.jdom-1.0.0-sources.jar
+

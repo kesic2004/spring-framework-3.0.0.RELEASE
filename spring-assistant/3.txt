@@ -1,0 +1,79 @@
+F:/repo1/com.sun.enterprise/com.springsource.com.sun.enterprise.loader/1.0.0/com.springsource.com.sun.enterprise.loader-1.0.0.jar
+F:/repo1/org.apache.openjpa/com.springsource.org.apache.openjpa.java5/1.0.2/com.springsource.org.apache.openjpa.java5-1.0.2.jar
+sourcepath="XXX"
+F:/repo1/org.apache.tiles/com.springsource.org.apache.tiles/2.0.5/com.springsource.org.apache.tiles-2.0.5.jar
+/IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles/2.0.5/com.springsource.org.apache.tiles-sources-2.0.5.jar
+F:/repo1/org.apache.tiles/com.springsource.org.apache.tiles.core/2.0.5.osgi/com.springsource.org.apache.tiles.core-2.0.5.osgi.jar
+/IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles.core/2.0.5.osgi/com.springsource.org.apache.tiles.core-sources-2.0.5.osgi.jar
+F:/repo1/org.apache.tiles/com.springsource.org.apache.tiles.jsp/2.0.5/com.springsource.org.apache.tiles.jsp-2.0.5.jar
+/IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles.jsp/2.0.5/com.springsource.org.apache.tiles.jsp-sources-2.0.5.jar
+F:/repo1/org.testng/com.springsource.org.testng/5.9.0/com.springsource.org.testng-5.9.0.jar
+/IVY_CACHE/org.testng/com.springsource.org.testng/5.9.0/com.springsource.org.testng-sources-5.9.0.jar
+F:/repo1/org.jboss.util/com.springsource.org.jboss.util/2.0.4.GA/com.springsource.org.jboss.util-2.0.4.GA.jar
+/IVY_CACHE/org.jboss.util/com.springsource.org.jboss.util/2.0.4.GA/com.springsource.org.jboss.util-sources-2.0.4.GA.jar
+F:/repo1/org.apache.openjpa/com.springsource.org.apache.openjpa.lib/1.0.2/com.springsource.org.apache.openjpa.lib-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.lib/1.0.2/com.springsource.org.apache.openjpa.lib-sources-1.0.2.jar
+F:/repo1/org.apache.openjpa/com.springsource.org.apache.openjpa.persistence/1.0.2/com.springsource.org.apache.openjpa.persistence-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.persistence/1.0.2/com.springsource.org.apache.openjpa.persistence-sources-1.0.2.jar
+F:/repo1/org.apache.openjpa/com.springsource.org.apache.openjpa.jdbc/1.0.2/com.springsource.org.apache.openjpa.jdbc-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.jdbc/1.0.2/com.springsource.org.apache.openjpa.jdbc-sources-1.0.2.jar
+F:/repo1/org.apache.openjpa/com.springsource.org.apache.openjpa.jdbc.java5/1.0.2/com.springsource.org.apache.openjpa.jdbc.java5-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.jdbc.java5/1.0.2/com.springsource.org.apache.openjpa.jdbc.java5-sources-1.0.2.jar
+F:/repo1/org.apache.openjpa/com.springsource.org.apache.openjpa.lib.java5/1.0.2/com.springsource.org.apache.openjpa.lib.java5-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.lib.java5/1.0.2/com.springsource.org.apache.openjpa.lib.java5-sources-1.0.2.jar
+F:/repo1/org.apache.openjpa/com.springsource.org.apache.openjpa.persistence.jdbc/1.0.2/com.springsource.org.apache.openjpa.persistence.jdbc-1.0.2.jar
+/IVY_CACHE/org.apache.openjpa/com.springsource.org.apache.openjpa.persistence.jdbc/1.0.2/com.springsource.org.apache.openjpa.persistence.jdbc-sources-1.0.2.jar
+
+<dependency><groupId>org.apache.openjpa</groupId><artifactId>com.springsource.org.apache.openjpa.java5           </artifactId><version>1.0.2     </version></dependency>
+<dependency><groupId>com.sun.enterprise</groupId><artifactId>com.springsource.com.sun.enterprise.loader          </artifactId><version>1.0.0     </version></dependency>
+<dependency><groupId>org.apache.tiles  </groupId><artifactId>com.springsource.org.apache.tiles                   </artifactId><version>2.0.5     </version></dependency>
+<dependency><groupId>org.apache.tiles  </groupId><artifactId>com.springsource.org.apache.tiles.core              </artifactId><version>2.0.5.osgi</version></dependency>
+<dependency><groupId>org.apache.tiles  </groupId><artifactId>com.springsource.org.apache.tiles.jsp               </artifactId><version>2.0.5     </version></dependency>
+<dependency><groupId>org.testng        </groupId><artifactId>com.springsource.org.testng                         </artifactId><version>5.9.0     </version></dependency>
+<dependency><groupId>org.jboss.util    </groupId><artifactId>com.springsource.org.jboss.util                     </artifactId><version>2.0.4.GA  </version></dependency>
+<dependency><groupId>org.apache.openjpa</groupId><artifactId>com.springsource.org.apache.openjpa.lib             </artifactId><version>1.0.2     </version></dependency>
+<dependency><groupId>org.apache.openjpa</groupId><artifactId>com.springsource.org.apache.openjpa.persistence     </artifactId><version>1.0.2     </version></dependency>
+<dependency><groupId>org.apache.openjpa</groupId><artifactId>com.springsource.org.apache.openjpa.jdbc            </artifactId><version>1.0.2     </version></dependency>
+<dependency><groupId>org.apache.openjpa</groupId><artifactId>com.springsource.org.apache.openjpa.jdbc.java5      </artifactId><version>1.0.2     </version></dependency>
+<dependency><groupId>org.apache.openjpa</groupId><artifactId>com.springsource.org.apache.openjpa.lib.java5       </artifactId><version>1.0.2     </version></dependency>
+<dependency><groupId>org.apache.openjpa</groupId><artifactId>com.springsource.org.apache.openjpa.persistence.jdbc</artifactId><version>1.0.2     </version></dependency>
+
+com.springsource.org.apache.openjpa.java5-1.0.2.jar
+com.springsource.com.sun.enterprise.loader-1.0.0.jar
+com.springsource.org.apache.tiles-2.0.5.jar
+com.springsource.org.apache.tiles.core-2.0.5.osgi.jar
+com.springsource.org.apache.tiles.jsp-2.0.5.jar
+com.springsource.org.testng-5.9.0.jar
+com.springsource.org.jboss.util-2.0.4.GA.jar
+com.springsource.org.apache.openjpa.lib-1.0.2.jar
+com.springsource.org.apache.openjpa.persistence-1.0.2.jar
+com.springsource.org.apache.openjpa.jdbc-1.0.2.jar
+com.springsource.org.apache.openjpa.jdbc.java5-1.0.2.jar
+com.springsource.org.apache.openjpa.lib.java5-1.0.2.jar
+com.springsource.org.apache.openjpa.persistence.jdbc-1.0.2.jar
+
+F:\repo1\com\sun\enterprise\com.springsource.com.sun.enterprise.loader\1.0.0\com.springsource.com.sun.enterprise.loader-1.0.0.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.java5\1.0.2\com.springsource.org.apache.openjpa.java5-1.0.2.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.java5\1.0.2\com.springsource.org.apache.openjpa.java5-1.0.2-sources.jar
+F:\repo1\org\apache\tiles\com.springsource.org.apache.tiles\2.0.5\com.springsource.org.apache.tiles-2.0.5.jar
+F:\repo1\org\apache\tiles\com.springsource.org.apache.tiles\2.0.5\com.springsource.org.apache.tiles-2.0.5-sources.jar
+F:\repo1\org\apache\tiles\com.springsource.org.apache.tiles.core\2.0.5.osgi\com.springsource.org.apache.tiles.core-2.0.5.osgi.jar
+F:\repo1\org\apache\tiles\com.springsource.org.apache.tiles.core\2.0.5.osgi\com.springsource.org.apache.tiles.core-2.0.5.osgi-sources.jar
+F:\repo1\org\apache\tiles\com.springsource.org.apache.tiles.jsp\2.0.5\com.springsource.org.apache.tiles.jsp-2.0.5.jar
+F:\repo1\org\apache\tiles\com.springsource.org.apache.tiles.jsp\2.0.5\com.springsource.org.apache.tiles.jsp-2.0.5-sources.jar
+F:\repo1\org\testng\com.springsource.org.testng\5.9.0\com.springsource.org.testng-5.9.0.jar
+F:\repo1\org\testng\com.springsource.org.testng\5.9.0\com.springsource.org.testng-5.9.0-sources.jar
+F:\repo1\org\jboss\util\com.springsource.org.jboss.util\2.0.4.GA\com.springsource.org.jboss.util-2.0.4.GA.jar
+F:\repo1\org\jboss\util\com.springsource.org.jboss.util\2.0.4.GA\com.springsource.org.jboss.util-2.0.4.GA-sources.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.lib\1.0.2\com.springsource.org.apache.openjpa.lib-1.0.2.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.lib\1.0.2\com.springsource.org.apache.openjpa.lib-1.0.2-sources.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.persistence\1.0.2\com.springsource.org.apache.openjpa.persistence-1.0.2.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.persistence\1.0.2\com.springsource.org.apache.openjpa.persistence-1.0.2-sources.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.jdbc\1.0.2\com.springsource.org.apache.openjpa.jdbc-1.0.2.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.jdbc\1.0.2\com.springsource.org.apache.openjpa.jdbc-1.0.2-sources.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.jdbc.java5\1.0.2\com.springsource.org.apache.openjpa.jdbc.java5-1.0.2.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.jdbc.java5\1.0.2\com.springsource.org.apache.openjpa.jdbc.java5-1.0.2-sources.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.lib.java5\1.0.2\com.springsource.org.apache.openjpa.lib.java5-1.0.2.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.lib.java5\1.0.2\com.springsource.org.apache.openjpa.lib.java5-1.0.2-sources.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.persistence.jdbc\1.0.2\com.springsource.org.apache.openjpa.persistence.jdbc-1.0.2.jar
+F:\repo1\org\apache\openjpa\com.springsource.org.apache.openjpa.persistence.jdbc\1.0.2\com.springsource.org.apache.openjpa.persistence.jdbc-1.0.2-sources.jar
